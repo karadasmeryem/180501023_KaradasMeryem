@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Versicherung_System","l":"Kunden"},{"p":"Versicherung_System","l":"Personal"},{"p":"Versicherung_System","l":"Verkäufer"},{"p":"Versicherung_System","l":"Versicherungstype"},{"p":"Versicherung_System","l":"Verwaltungspersonal"}];updateSearchResults();

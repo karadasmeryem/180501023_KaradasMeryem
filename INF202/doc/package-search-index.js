@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"INF202","l":"Versicherung_System"}];updateSearchResults();
