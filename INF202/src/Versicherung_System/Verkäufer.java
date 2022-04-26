@@ -20,8 +20,8 @@ public class Verkäufer {
 		this.setpersonalID(personalID);
 		this.setGeschlecht(geschlecht);
 		this.setEmail(email);
-		this.setArbeitsanfangsdatum(arbeitsanfangsdatum); 
-		this.setTelefonnummer(telefonnummer); 
+		this.setarbeitsanfangsdatum(arbeitsanfangsdatum); 
+		this.settelefonummer(telefonnummer); 
 	}
 
 	public String getVorname() {
@@ -82,7 +82,7 @@ public class Verkäufer {
 	public String getTelefonnummer() {
 		return telefonnummer;
 	}
-	public void setPhonenummer(String telefonnummer) {
+	public void settelefonummer(String telefonnummer) {
 		this.telefonnummer = telefonnummer;
 	}
 
