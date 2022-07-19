@@ -1,4 +1,4 @@
-package Versicherung_System;
+/* package Versicherung_System;
 
 public class Kunden {
 	
@@ -114,4 +114,4 @@ public class Kunden {
 		
 	}
 		
-}
+} */

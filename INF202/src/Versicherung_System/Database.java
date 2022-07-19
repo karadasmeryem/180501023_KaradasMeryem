@@ -1,4 +1,4 @@
-package Versicherung_System;   
+/*package Versicherung_System;   
 
 import java.sql.DriverManager;
 import com.mysql.cj.jdbc.ConnectionWrapper;
@@ -40,4 +40,5 @@ public static void main(String[] args ) {
 		}
 	}
 
-}
+}  
+	*/

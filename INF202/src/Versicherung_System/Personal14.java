@@ -1,6 +1,6 @@
-package Versicherung_System;
+/* package Versicherung_System;
 
-public class Personal {
+public class Personal14 {
 			private String vorname; 
 			private String nachname;  
 			private String geburtsdatum; 
@@ -11,7 +11,7 @@ public class Personal {
 			private String telefonnummer; 
 			private String maklergebühr ; 
 			
-			public Personal(String vorname, String nachname, String geschlecht, String geburtsdatum , 
+			public Personal14(String vorname, String nachname, String geschlecht, String geburtsdatum , 
 					        String personalID ,String email , String arbeitsanfangsdatum ,
 					        String telefonnummer ,String maklergebühr )
 					
@@ -105,4 +105,4 @@ public class Personal {
 				return maklergebühr;
 			}
 		}
-
+*/

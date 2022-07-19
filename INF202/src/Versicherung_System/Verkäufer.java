@@ -1,4 +1,4 @@
-package Versicherung_System;
+/* package Versicherung_System;
 
 public class Verkäufer {
 	private String vorname; 
@@ -88,4 +88,4 @@ public class Verkäufer {
 
 }
 
-
+*/

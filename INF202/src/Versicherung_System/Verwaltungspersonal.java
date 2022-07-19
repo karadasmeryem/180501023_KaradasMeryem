@@ -1,6 +1,6 @@
 package Versicherung_System;
 
-public class Verwaltungspersonal extends Personal{
+public class Verwaltungspersonal extends Personal14{
 	private String versicherungsabteilung;        
 	private String abteilungID;
 
